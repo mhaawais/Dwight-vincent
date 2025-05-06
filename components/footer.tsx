@@ -11,11 +11,11 @@ const Footer = () => {
         <div className="flex w-full lg:w-1/3 justify-center lg:justify-end">
           <div className="bg-[#c7d3e4] p-2 rounded-md">
             <Image
-              src="/assets/images/footer.png"
+              src="/assets/images/my-m2.png"
               alt="Footer Book Image"
               width={300} // Make image larger here
               height={330} // Maintain proportion
-              className="object-contain"
+              // className="object-contain"
             />
           </div>
         </div>

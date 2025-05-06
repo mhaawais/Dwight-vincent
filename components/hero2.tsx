@@ -9,7 +9,7 @@ const Hero2 = () => {
         {/* Image Section */}
         <div className="bg-[#a3b4ce] p-6 rounded-md w-full max-w-[350px]">
           <Image 
-            src="/assets/images/mock-up2.png" 
+            src="/assets/images/m1.png" 
             alt="Book Image" 
             width={300} 
             height={400} 

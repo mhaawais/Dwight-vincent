@@ -16,7 +16,7 @@ const Hero1 = () => {
       <div className="w-full lg:w-1/2 flex items-center justify-center">
         <div className="relative w-full max-w-[350px] h-[400px] md:max-w-[400px] md:h-[450px] lg:max-w-[550px] lg:h-[700px]">
           <Image
-            src="/assets/images/top-image.png"
+            src="/assets/images/photo-3.png"
             alt="Book Cover"
             layout="fill"
             objectFit="contain"

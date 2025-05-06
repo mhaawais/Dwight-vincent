@@ -26,45 +26,40 @@ const About = () => {
           {/* Right Side - Text */}
           <div className="w-full lg:w-[70%]">
             <h2 className="text-4xl md:text-5xl font-bold mb-6 text-review">About the Author</h2>
-            <h3 className="text-2xl md:text-3xl font-semibold mb-8">Sandra McKay</h3>
+            <h3 className="text-2xl md:text-3xl font-semibold mb-8">Dwight VinCent Green Jr.</h3>
 
             <div className="space-y-8 text-[16px] leading-8 tracking-wide">
               <p>
-                Sandra McKay is an emerging author of creative non-fiction. An accomplished writer, her first
-                story published when she was only nine years old, was about a girl and her horse. While
-                growing up, her writing skills progressively matured while taking college English and creative
-                writing courses. Also, she has participated in numerous workshops, including a Chicago Writing
-                Workshop and numerous Iowa Writer’s Workshops.
+                With a lifetime dedicated to service and leadership, the author brings a rich tapestry of experience
+                that informs their unique perspective on managing difficult people. A retired military veteran and
+                former police officer, they have honed skills in conflict resolution and interpersonal dynamics that
+                are essential in today’s multifaceted environments. Currently serving as a Bi-vocational Senior Pastor
+                and Substance Use Therapist, they intertwine their faith with practical counseling principles, making
+                them a credible voice in the field of leadership and personal development.
               </p>
 
               <p>
-                Sandra is a business professional. As owner and President of a consulting firm, she has
-                authored numerous stories and articles that have been published in business magazines, and
-                she has submitted written testimony in numerous proceedings before federal agencies, some
-                that have been profiled in numerous publications, including Crain’s Chicago Business and the
-                Wall Street Journal.
+                The author’s professional background is a compelling blend of military service, law enforcement, prison
+                chaplain and community engagement. Having served in various capacities, they understand the intricacies
+                of human behavior and the importance of effective communication. Their role as a church leader and
+                therapist allows them to train, teach, and advise multiple congregations on strategies for effective
+                leadership, counseling methodologies, and community development initiatives. This multifaceted experience
+                enriches their insights into managing challenging interpersonal interactions.
               </p>
 
               <p>
-                Sandra’s book, <strong>Dora</strong>, starts in Ullin Village in Southern Illinois in 1899 and centers on how this
-                tiny Irish girl lost a happy family life when her father died from typhoid fever, and was
-                subsequently sent to an orphanage in Chicago. Then she was “taken in” by a wealthy attorney
-                and for a few years lived a privileged lifestyle. However, tragedy hit once again, and her life
-                became filled with sadness and intrigue. Still, she moved on and ultimately found happiness.
+                Educationally, the author possesses advanced degrees that underpin their expertise in leadership and counseling. Their formal training, combined with years of practical experience, fuels their passion for writing. The journey to authoring "Managing Difficult People Like Disciples" and “I’m Out, The reason why I’m Leaving the Church” and the “50 Lord Laws of Leadership” was born from a desire to share their knowledge and strategies with a broader audience. This book serves as both a guide and a resource, designed for anyone looking to enhance their skills in managing relationships, whether in the workplace, community, or personal life.
               </p>
 
-              <p className="italic pl-4 border-l-4 border-myblack">
-                “My grandmother told me she was writing the story of her life. When she died in 1976, I asked
-                my grandfather for her writings; I took them home and put them in a drawer where they
-                remained for more than 30 years. It was a dreary Sunday afternoon when I was cleaning drawers
-                and my husband, Don, asked, what I was holding in my hand. When I explained, he responded,
-                ‘Well, you have to write her story for her!’ After spending the next ten days trying to make sense
-                of work written by a woman with dementia, I initiated research. With the help of a professional
-                genealogist, Cathy Parsons, we found a much bigger story that no one in our family knew about.
-                So, my original plan to write a small book for family, exploded into a 400-page novel. Writing her
-                story was a privilege and a joy. I am proud of my book but most important, I am so proud of my
-                grandmother, Dora, and the fact that she triumphed over adversity.” – Sandra McKay
-              </p>
+              <div className="italic pl-4 border-l-4 border-myblack">
+               <p>  
+                “In their writing, the author adopts a relatable and straightforward style, breaking down complex concepts into actionable insights. Personal anecdotes from their life as a veteran, police officer, and pastor add depth to their message, making it accessible and engaging for readers from all walks of life. They aim not merely to inform but to inspire readers to approach difficult situations with empathy and understanding.” 
+               </p>
+               <br />
+               <p>
+                 “The <strong>author’s</strong> mission is to foster positive relationships and promote personal growth through effective communication and leadership principles. They aspire to continue writing on topics of personal development, community engagement, and faith-based leadership, hoping to empower others to manage difficulties with grace and resilience. Their dedication to improving lives both through therapy and literature exemplifies his commitment to service in all its forms.”<span className="text-myblack font-semibold"> – Dwight VinCent Green Jr. </span>
+               </p>
+              </div>
             </div>
 
             {/* CTA Button */}
