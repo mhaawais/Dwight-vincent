@@ -71,7 +71,7 @@ const About = () => {
             <div className="mt-14 text-center">
               <Link
                 href={"https://www.amazon.com/s?k=I%27m+Out%3A+The+Reason+Why+I%27m+Leaving+The+Church&crid=I75DHGFKQRQP&sprefix=i%27m+out+the+reason+why+i%27m+leaving+the+church%2Caps%2C425&ref=nb_sb_noss"} target="_blank"
-                className="inline-block text-myblack bg-[#c7d3e4] text-lg font-semibold px-10 py-4 rounded-full transition duration-300 hover:bg-opacity-80 hover:scale-105"
+                className="inline-block text-white bg-myblack text-lg font-semibold px-10 py-4 rounded-full transition duration-300 hover:bg-opacity-80 hover:scale-105"
               >
                 Get The Book Here!
               </Link>

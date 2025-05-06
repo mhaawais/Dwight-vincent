@@ -17,7 +17,7 @@ const Blog = () => {
           <Link href="/complete-blog/blog1" className="w-full">
             <div className="w-full max-w-7xl mx-auto">
               <Image
-                src="/assets/images/mock-up2.png"
+                src="/assets/images/book-cover-2.png"
                 alt="Book Cover"
                 width={1920}
                 height={1080}
@@ -65,7 +65,7 @@ const Blog = () => {
           <Link href="/complete-blog/blog2" className="w-full">
             <div className="w-full max-w-7xl mx-auto">
               <Image
-                src="/assets/images/mockup-3.png"
+                src="/assets/images/book-cover-3.png"
                 alt="Book Cover 3"
                 width={1920}
                 height={1080}
