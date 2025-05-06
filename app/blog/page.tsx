@@ -36,7 +36,7 @@ const Blog = () => {
           </p>
           <p className="text-center text-sm sm:text-base mb-8">• 5/28/19</p>
 
-          <h1 className="text-center text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight tracking-tight mb-10  text-myblack">
+          <h1 className="text-center text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight tracking-tight mb-10  text-myblack font-serif">
             Finding Your Reading Mojo: How to Get <br className="hidden sm:block" />
             Motivated to Start Reading Again
           </h1>
@@ -53,7 +53,7 @@ const Blog = () => {
           <div className="text-center">
             <Link
               href="/complete-blog/blog1"
-              className="text-gray-700 underline text-lg font-medium hover:text-myblack transition"
+              className="text-gray-700 underline text-lg font-medium hover:text-myblack transition font-serif"
             >
               Read More
             </Link>
@@ -84,7 +84,7 @@ const Blog = () => {
           </p>
           <p className="text-center text-sm sm:text-base mb-8">• 5/28/19</p>
 
-          <h1 className="text-center text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight tracking-tight mb-10  text-myblack">
+          <h1 className="text-center text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight tracking-tight mb-10  text-myblack font-serif">
             Immersing Yourself in Historical Fiction: Why It's Worth Your Time
           </h1>
 
@@ -103,7 +103,7 @@ const Blog = () => {
           <div className="text-center">
             <Link
               href="/complete-blog/blog2"
-              className="text-gray-700 underline text-lg font-medium hover:text-myblack transition"
+              className="text-gray-700 underline text-lg font-medium hover:text-myblack transition font-serif"
             >
               Read More
             </Link>

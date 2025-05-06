@@ -14,7 +14,7 @@ const About = () => {
           <div className="w-full lg:w-[30%] flex justify-center">
             <div className="w-[320px] h-[450px] relative rounded-2xl overflow-hidden shadow-lg">
               <Image
-                src="/assets/images/Author.jpeg"
+                src="/assets/images/author-dwight.jpeg"
                 alt="Sandra McKay"
                 layout="fill"
                 objectFit="cover"
@@ -57,7 +57,7 @@ const About = () => {
                </p>
                <br />
                <p>
-                 “The <strong>author’s</strong> mission is to foster positive relationships and promote personal growth through effective communication and leadership principles. They aspire to continue writing on topics of personal development, community engagement, and faith-based leadership, hoping to empower others to manage difficulties with grace and resilience. Their dedication to improving lives both through therapy and literature exemplifies his commitment to service in all its forms.”<span className="text-myblack font-semibold"> – Dwight VinCent Green Jr. </span>
+                 “The <strong>author’s</strong> mission is to foster positive relationships and promote personal growth through effective communication and leadership principles. They aspire to continue writing on topics of personal development, community engagement, and faith-based leadership, hoping to empower others to manage difficulties with grace and resilience. Their dedication to improving lives both through therapy and literature exemplifies his commitment to service in all its forms.”<span className="text-myblack font-semibold font-serif"> – Dwight VinCent Green Jr. </span>
                </p>
               </div>
             </div>

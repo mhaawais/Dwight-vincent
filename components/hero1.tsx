@@ -7,9 +7,13 @@ const Hero1 = () => {
       
       {/* Left Side - Text */}
       <div className="w-full lg:w-1/2 flex flex-col items-center lg:items-start justify-center text-center lg:text-left mb-10 lg:mb-0">
-        <h1 className="font-semibold text-3xl md:text-4xl lg:text-5xl leading-tight max-w-[500px]">
+        {/* <h1 className="font-serif font-semibold text-3xl md:text-4xl lg:text-5xl leading-tight max-w-[500px] text-myblack">
           Discover stories that celebrate the beauty of overcoming adversity.
+        </h1> */}
+        <h1 className="font-serif font-semibold text-2xl sm:text-3xl md:text-4xl lg:text-5xl leading-snug sm:leading-tight max-w-[90%] md:max-w-[600px] text-myblack text-center sm:text-left">
+         Discover stories that celebrate the beauty of overcoming adversity.
         </h1>
+
       </div>
 
       {/* Right Side - Image */}
