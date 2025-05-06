@@ -53,7 +53,7 @@ const About = () => {
                 became filled with sadness and intrigue. Still, she moved on and ultimately found happiness.
               </p>
 
-              <p className="italic pl-4 border-l-4 border-black">
+              <p className="italic pl-4 border-l-4 border-myblack">
                 “My grandmother told me she was writing the story of her life. When she died in 1976, I asked
                 my grandfather for her writings; I took them home and put them in a drawer where they
                 remained for more than 30 years. It was a dreary Sunday afternoon when I was cleaning drawers
