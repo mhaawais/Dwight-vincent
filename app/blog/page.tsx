@@ -5,6 +5,13 @@ import Image from "next/image";
 import Link from "next/link";
 import Header from "@/components/header";
 import Footer from "@/components/footer";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Faith, Reflection & Redemption – Blog | I'm Out by Dwight Vincent Green Jr.",
+  description:
+    "Read powerful reflections and behind-the-scenes insights from 'I'm Out'—a thought-provoking journey of spiritual awakening. Dive deeper into faith, healing, and the personal journey that inspired the book.",
+};
 
 const Blog = () => {
   return (

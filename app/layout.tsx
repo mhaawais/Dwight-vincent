@@ -13,10 +13,27 @@ const geistMono = localFont({
   weight: "100 900",
 });
 
+// export const metadata: Metadata = {
+//   title: "Dwight Vincet Site",
+//   description: "Writer of I'm Out: The Reason Why I'm Leaving The Church",
+// };
+
+const faviconVersion = "v1.2"; // Declare it here
+
 export const metadata: Metadata = {
-  title: "Dwight Vincet Site",
-  description: "Writer of I'm Out: The Reason Why I'm Leaving The Church",
+  title: {
+    template: "%s | Dwight Vincent Green Jr.",
+    default: "I'm Out: The Reason Why I'm Leaving The Church",
+  },
+  description: "Official site for the Amazon book by Dwight Vincent Green Jr.",
+  icons: {
+    icon: [
+      `/assets/logo/Author-Logo.png?v=${faviconVersion}`,
+      // "/favicon.ico",
+    ],
+  },
 };
+
 
 export default function RootLayout({
   children,

@@ -2,6 +2,13 @@ import Image from "next/image";
 import Link from "next/link";
 import Header from "@/components/header";
 import Footer from "@/components/footer";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "About the Author | Dwight Vincent Green Jr. | I'm Out Book",
+  description:
+    "Get to know Dwight Vincent Green Jr., the voice behind 'I'm Out: The Reason Why I'm Leaving The Church.' Discover his journey, purpose, and the real-life experiences that shaped this groundbreaking book.",
+};
 
 const About = () => {
   return (

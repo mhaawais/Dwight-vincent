@@ -2,6 +2,13 @@ import React from "react";
 import Header from "@/components/header";
 import Footer from "@/components/footer";
 import Link from "next/link";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Faith Beyond the Four Walls | I'm Out Blog by Dwight Vincent Green Jr.",
+  description:
+    "Faith doesn’t end at the church door. This blog explores the deeper connection with God beyond religious institutions—building on themes from 'I'm Out: The Reason Why I'm Leaving The Church.'",
+};
 
 const Blog2 = () => {
   return (

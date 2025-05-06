@@ -2,6 +2,13 @@ import React from "react";
 import Header from "@/components/header";
 import Footer from "@/components/footer";
 import Link from "next/link";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Why I Wrote 'I'm Out' | Dwight Vincent Green Jr. – Blog",
+  description:
+    "Uncover the heartfelt motivations behind 'I'm Out.' In this blog, Dwight shares his spiritual struggles, revelations, and what led him to pen this bold departure from traditional church culture.",
+};
 
 const Blog1 = () => {
   return (
