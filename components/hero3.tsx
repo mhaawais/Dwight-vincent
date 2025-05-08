@@ -15,10 +15,12 @@ const Hero3 = () => {
       {/* Content Grid */}
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 w-full max-w-6xl mx-auto">
         
+
+
         {/* Testimonial 1 */}
         <div className="bg-[#c7d3e4] p-6 rounded-md shadow-md">
           <p className="text-lg leading-relaxed italic mb-4">
-            "Beginning with a haunting, nightmarish scene, <span className="font-semibold">A Place for Me</span> is rich with sensory imagery, strong emotion, and often-surprising historical detail. Sandra McKay’s depiction of Dora’s journey from a harrowing displacement to a position of strength and maturity is convincing, eventful, and deeply moving."
+            "Opening with a powerful and unsettling moment, <span className='font-semibold'>I'm Out</span> is filled with vivid imagery, intense emotion, and unexpected insights into church life. Dwight Vincent Green Jr.'s account of spiritual disillusionment and transformation is authentic, compelling, and deeply affecting—taking readers through a journey that is honest, courageous, and unforgettable."
           </p>
           <p className="text-right font-semibold text-myblack font-serif">
             — Lon Otto
@@ -28,13 +30,13 @@ const Hero3 = () => {
           </p>
         </div>
 
+
+
+
         {/* Testimonial 2 */}
         <div className="bg-[#c7d3e4] p-6 rounded-md shadow-md">
           <p className="text-lg leading-relaxed mb-4">
-            Joseph L. Murphy was a highly respected attorney and an active member of the Masonic Lodge in Canton. Sandra McKay brings his character and his love for children to life. <span className="font-semibold">A Place For Me</span> is an enjoyable read, as it includes a lot of Canton’s history, including the development of the Graham Hospital, and Fulton County’s Trial of the Century. Murphy brought a little girl, Dora Kelly, home from an orphanage in Chicago. Unmothered, she became a remarkable young woman despite many setbacks and challenges. 
-          </p>
-          <p className="text-lg leading-relaxed mb-4">
-            This is a five-part story that will appeal to people of all ages who are interested in history and the Orphan Train, and to young people seeking role models that have transitioned challenges into opportunities.
+             "Dwight Vincent Green Jr. was once a devoted church member and respected figure in his community. In <span className='font-semibold'>I'm Out,</span> he shares his heartfelt experiences and painful reflections with clarity and purpose. This honest narrative explores the emotional weight of religious disillusionment and the search for spiritual identity outside of tradition. The book is insightful and thought-provoking, connecting deeply with anyone who has questioned their beliefs. This is a multi-layered account that will resonate with those interested in personal transformation, modern spirituality, and anyone seeking to turn adversity into a path toward freedom."
           </p>
           <p className="text-right font-semibold text-myblack font-serif">
             — Terry Seward
@@ -44,13 +46,14 @@ const Hero3 = () => {
           </p>
         </div>
 
+
+
+
+
         {/* Testimonial 3 */}
         <div className="bg-[#c7d3e4] p-6 rounded-md shadow-md">
           <p className="text-lg leading-relaxed italic mb-4">
-            "A Place for Me brings to life the story of an orphan train child who settled in a small Midwestern town. In an era before mass adoption and foster care, orphanages used the nation’s railway system to deliver poor children to new homes."
-          </p>
-          <p className="text-lg leading-relaxed mb-4">
-            Based on a true story, this fictionalized account humanizes the experiences of one such child, Dora Kelly. It is a fascinating tale: Dora is swept up by personal family drama, a sensationalized court trial, and her own search for love. Recommended for readers interested in popular history and juvenile fiction.
+            "<span className='font-semibold'>I'm Out</span> captures the personal story of an individual confronting long-standing religious tradition in a small-town church setting. At a time when questioning faith is often stigmatized, Dwight Vincent Green Jr. courageously explores the reasons behind his departure. Loosely based on real experiences, this powerful narrative blends spiritual conflict, societal pressure, and the quest for truth. A compelling read for those interested in modern faith journeys and thoughtful religious critique."
           </p>
           <p className="text-right font-semibold text-myblack font-serif">
             — Jonathan Bean, Ph.D
@@ -60,13 +63,14 @@ const Hero3 = () => {
           </p>
         </div>
 
+
+
+
+
         {/* Testimonial 4 */}
         <div className="bg-[#c7d3e4] p-6 rounded-md shadow-md">
           <p className="text-lg leading-relaxed mb-4">
-            During my childhood, I learned my Aunt Dora came to Canton on the Orphan Train. This was just a nugget of family history, and I never understood her amazing journey until her granddaughter Sandra brought it to life.
-          </p>
-          <p className="text-lg leading-relaxed mb-4">
-            I so enjoyed reading her story, and stories like these are a reminder of what our ancestors did and achieved to give us the lives we have today.
+            "Growing up, I knew Dwight had deep roots in the church—but I never understood the full weight of his story until he shared it in <span className='font-semibold'>I'm Out</span>. His journey is eye-opening and deeply personal. Stories like his remind us how courageously people have walked away from comfort to live in alignment with their truth."
           </p>
           <p className="text-right font-semibold text-myblack font-serif">
             — Vicky Turl
@@ -75,6 +79,10 @@ const Hero3 = () => {
             Niece of Dora and Rex. Director of Dual Credit & Partnerships at John A. Logan College Carbondale, Illinois
           </p>
         </div>
+
+
+
+
 
       </div>
 

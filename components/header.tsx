@@ -37,11 +37,14 @@ const Header = () => {
             <a href="/" className="text-myblack transition-colors border-b-2 border-black">
               HOME
             </a>
-            <a href="/blog" className="text-gray-700  hover:text-myblack transition-colors">
+            {/* <a href="/blog" className="text-gray-700  hover:text-myblack transition-colors">
               BLOG
-            </a>
+            </a> */}
             <a href="/about" className="text-gray-700 hover:text-myblack transition-colors">
               ABOUT
+            </a>
+            <a href="/blog" className="text-gray-700  hover:text-myblack transition-colors">
+              BLOG
             </a>
           </nav>
         </div>
@@ -118,19 +121,26 @@ const Header = () => {
             >
               HOME
             </a>
-            <a
+            {/* <a
               href="/blog"
               onClick={toggleMenu}
               className="text-gray-700  hover:text-myblack"
             >
               BLOG
-            </a>
+            </a> */}
             <a
               href="/about"
               onClick={toggleMenu}
               className="text-gray-700  hover:text-myblack"
             >
               ABOUT
+            </a>
+            <a
+              href="/blog"
+              onClick={toggleMenu}
+              className="text-gray-700  hover:text-myblack"
+            >
+              BLOG
             </a>
             <Link href={"https://www.amazon.com/s?k=I%27m+Out%3A+The+Reason+Why+I%27m+Leaving+The+Church&crid=I75DHGFKQRQP&sprefix=i%27m+out+the+reason+why+i%27m+leaving+the+church%2Caps%2C425&ref=nb_sb_noss"} target="_blank">
             <button
