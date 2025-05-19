@@ -32,7 +32,7 @@ const Blog1 = () => {
 
         {/* Meta */}
         <div className="mt-4 text-[14px] tracking-widest">
-          May 28 &nbsp; - &nbsp; Written By Sandra McKay
+          May 28 &nbsp; - &nbsp; Written By Dwight Vincent Green Jr.
         </div>
 
         {/* Title */}
@@ -96,15 +96,17 @@ const Blog1 = () => {
           </p>
 
           <p>
-            Rediscover the joy of reading with a compelling story. "A Place for
-            Me" is waiting to take you on a historical journey filled with
+            Rediscover the joy of reading with a compelling story. "I'm Out"
+            is waiting to take you on a historical journey filled with
             emotion and adventure. Happy reading!
           </p>
 
           <div className="mt-8 flex justify-center">
+            <Link href={"https://www.amazon.com/s?k=I%27m+Out%3A+The+Reason+Why+I%27m+Leaving+The+Church&crid=I75DHGFKQRQP&sprefix=i%27m+out+the+reason+why+i%27m+leaving+the+church%2Caps%2C425&ref=nb_sb_noss"}>
             <button className="bg-black text-white px-10 py-5 rounded-full hover:bg-white hover:text-black hover:shadow-lg transition-all duration-300 font-semibold tracking-wider">
-              Read "A Place For Me"
+              Read "I'm Out"
             </button>
+            </Link>
           </div>
         </div>
 
@@ -129,7 +131,7 @@ const Blog1 = () => {
 
         {/* Author */}
         <div className="mt-6 text-[15px] tracking-wide font-semibold">
-          Sandra McKay
+          Dwight Vincent Green Jr.
         </div>
 
         {/* Next Blog Link */}

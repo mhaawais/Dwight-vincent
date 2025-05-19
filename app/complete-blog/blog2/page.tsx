@@ -32,7 +32,7 @@ const Blog2 = () => {
 
         {/* Meta */}
         <div className="mt-4 text-[14px] tracking-widest">
-          May 28 &nbsp; - &nbsp; Written By Sandra McKay
+          May 28 &nbsp; - &nbsp; Written By Dwight Vincent Green Jr.
         </div>
 
         {/* Title */}
@@ -53,7 +53,7 @@ const Blog2 = () => {
           <p>
             <strong>1. Experience History Firsthand:</strong> Historical fiction
             brings history to life through engaging narratives and vivid
-            details. Books like my novel, "A Place for Me," set during the era
+            details. Books like my novel, "I'm Out," set during the era
             of the Orphan Trains, offer an immersive experience that textbooks
             often can’t match.
           </p>
@@ -90,7 +90,7 @@ const Blog2 = () => {
           <hr className="my-8 border-black" />
 
           <p className="font-semibold">
-            My novel, "A Place for Me," exemplifies the power of historical
+            My novel, "I'm Out," exemplifies the power of historical
             fiction. Set against the backdrop of the Orphan Trains, it tells a
             story of resilience, hope, and finding one's place in the world.
             Readers have shared how the characters and their journeys have
@@ -109,9 +109,11 @@ const Blog2 = () => {
           </p>
 
           <div className="mt-8 flex justify-center">
+            <Link href={"https://www.amazon.com/s?k=I%27m+Out%3A+The+Reason+Why+I%27m+Leaving+The+Church&crid=I75DHGFKQRQP&sprefix=i%27m+out+the+reason+why+i%27m+leaving+the+church%2Caps%2C425&ref=nb_sb_noss"}>
             <button className="bg-black text-white px-10 py-5 rounded-full hover:bg-white hover:text-black hover:shadow-lg transition-all duration-300 font-semibold tracking-wider">
-              Get “A Place for Me" Here
+              Get “I'm Out" Here
             </button>
+            </Link>
           </div>
         </div>
 
@@ -133,7 +135,7 @@ const Blog2 = () => {
 
         {/* Author */}
         <div className="mt-6 text-[15px] tracking-wide font-semibold">
-          Sandra McKay
+          Dwight Vincent Green Jr.
         </div>
 
         {/* Previous Blog Link */}
