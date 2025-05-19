@@ -104,7 +104,7 @@ const Blog2 = () => {
 
           <p>
             Immerse yourself in the world of historical fiction and discover the
-            magic of the past. Start your journey with "A Place for Me" and
+            magic of the past. Start your journey with "I'm Out" and
             experience history like never before. Happy reading!
           </p>
 
@@ -123,7 +123,7 @@ const Blog2 = () => {
           <span>benefits of reading</span>
           <span>book lovers</span>
           <span>reading tips</span>
-          <span>Sandra McKay</span>
+          <span>Dwight Vincent Green Jr.</span>
           <span>Orphan Trains</span>
           <span>immersive reading</span>
           <span>learning through fiction</span>

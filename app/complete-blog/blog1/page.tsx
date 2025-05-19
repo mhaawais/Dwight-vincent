@@ -120,7 +120,7 @@ const Blog1 = () => {
           <span>reading goals</span>
           <span>cozy reading space</span>
           <span>book clubs</span>
-          <span>Sandra McKay</span>
+          <span>Dwight Vincent Green Jr.</span>
           <span>historical fiction</span>
           <span>reading inspiration</span>
           <span>improve reading habits</span>
